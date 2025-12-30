@@ -1,0 +1,24 @@
+{
+  "name": "DecideAI",
+  "short_name": "DecideAI",
+  "description": "Food clarity at the moment decisions matter.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "health",
+    "food",
+    "utilities"
+  ],
+  "lang": "en"
+}
